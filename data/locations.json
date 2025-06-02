@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wasteland",
+    "type": "WASTELAND",
+    "description": "A desolate wasteland filled with raiders and scavengers.",
+    "xp_threshold": 110,
+    "enemies": [
+      { "type": "raider", "name": "Raider",     "health": 50,  "attack": 5,  "defense": 2, "exp_reward": 20 },
+      { "type": "raider", "name": "Scavenger",  "health": 45,  "attack": 6,  "defense": 1, "exp_reward": 20 },
+      { "type": "raider", "name": "Wild Dog",   "health": 40,  "attack": 7,  "defense": 1, "exp_reward": 20 }
+    ],
+    "boss":   { "type": "boss",   "name": "Raider Chief", "health": 100, "attack": 8,  "defense": 3, "exp_reward": 50 }
+  },
+  {
+    "id": 2,
+    "name": "Ruins",
+    "type": "RUINS",
+    "description": "Crumbling city ruins inhabited by mutants and survivors.",
+    "xp_threshold": 180,         
+    "enemies": [
+      { "type": "mutant", "name": "Mutant",   "health": 70,  "attack": 8,  "defense": 3, "exp_reward": 35 },
+      { "type": "mutant", "name": "Ghost",    "health": 60,  "attack": 10, "defense": 2, "exp_reward": 35 },
+      { "type": "mutant", "name": "Survivor", "health": 65,  "attack": 9,  "defense": 3, "exp_reward": 35 }
+    ],
+    "boss":   { "type": "boss",   "name": "Mutant Leader", "health": 130, "attack": 12, "defense": 4, "exp_reward": 75 }
+  },
+  {
+    "id": 3,
+    "name": "Abandoned Bunker",
+    "type": "BUNKER",
+    "description": "A high-tech bunker overtaken by rogue AI and machines.",
+    "xp_threshold": 250,         
+    "enemies": [
+      { "type": "mutant", "name": "Security Bot",    "health": 90,  "attack": 11, "defense": 5, "exp_reward": 50 },
+      { "type": "raider", "name": "Rogue Scientist", "health": 80,  "attack": 13, "defense": 3, "exp_reward": 50 },
+      { "type": "mutant", "name": "Cyborg",          "health": 85,  "attack": 12, "defense": 4, "exp_reward": 50 }
+    ],
+    "boss":   { "type": "boss",   "name": "AI Core",   "health": 160, "attack": 15, "defense": 6, "exp_reward": 100 }
+  }
+]

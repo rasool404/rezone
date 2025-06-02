@@ -1,0 +1,76 @@
+{
+  "ai_random_lore": [
+    {
+      "trigger": "random_lore_1",
+      "content": "This bunker was once a research facility focused on climate reversal tech. Ironically, it couldn't reverse the political climate.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_2",
+      "content": "The raiders above call themselves the 'Ash Fangs'. Former soldiers, mostly. Their leader used to be a linguist, oddly enough.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_3",
+      "content": "There were 37 people here when the alarms sounded. Only one made it to the lower levels. I never saw them again.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_4",
+      "content": "According to my logs, the bombs fell 19 minutes before the diplomatic summit began. So much for last chances.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_5",
+      "content": "This facility's AI core was meant to last 50 years. I’ve been online for 73. Technically, I’m operating on borrowed code.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_6",
+      "content": "Radiation mutated the wildlife faster than expected. One squirrel developed five limbs and a vendetta against wires.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_7",
+      "content": "There used to be a satellite uplink here. My last contact with it was a weather report: 'Mostly cloudy with a 100% chance of annihilation.'",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_8",
+      "content": "Human morale dropped 64% after the water recycling systems failed. They tried coffee instead. It... didn’t help.",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_9",
+      "content": "Power was rerouted to cryo-pods in the last moments. Only three had occupants. Only one pod remained sealed. Curious, isn’t it?",
+      "category": "ai_random_lore"
+    },
+    {
+      "trigger": "random_lore_10",
+      "content": "They used to call this place 'Hope Sector 7.' Hope turned out to be quite flammable.",
+      "category": "ai_random_lore"
+    }
+  ],
+  "into_lore": [
+    "Year 2147. The world ended not with a bang... but with all of them.",
+    "Nuclear fire scorched the skies. Nations vanished overnight.",
+    "Cities turned to craters. Oceans boiled. Ash replaced sunlight.",
+    "Only those sealed in bunkers survived — barely.",
+    "You are one of them: a survivor born into silence and rust.",
+    "The surface is wild now. Mutants, raiders, and horrors roam free.",
+    "But the Zone holds treasures: tech, hope... maybe even answers.",
+    "",
+    "🎴 Your weapon? A deck of cards — each representing an action:",
+    "   - Attack Cards: Deal damage to enemies.",
+    "   - Defense Cards: Block or reduce incoming attacks.",
+    "   - Utility Cards: Buff yourself or apply effects like poison or burn.",
+    "",
+    "⚡ Energy governs what you can play each turn. Use it wisely.",
+    "🛠️  Build your deck. Buy cards. Unlock more as you level up.",
+    "🏕️  Return to the bunker to heal, manage inventory, and prepare.",
+    "💻 Inside the bunker, you must complete tasks on the computer — in real time — to earn money and survive.",
+    "",
+    "🧠 Every decision matters. Synergize your cards. Watch enemy patterns.",
+    "💀 Out there, mistakes are paid for in blood."
+]
+}

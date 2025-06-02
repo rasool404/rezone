@@ -1,0 +1,38 @@
+{
+    "player": {
+        "name": "Rasul",
+        "level": 1,
+        "xp": 0,
+        "health": 80,
+        "max_health": 100,
+        "attack": 10,
+        "defense": 5,
+        "energy": 100,
+        "money": 5,
+        "inventory": {},
+        "unlocked_cards": []
+    },
+    "locations": {
+        "1": {
+            "total_enemies": 3,
+            "defeated_enemies": 0,
+            "boss_defeated": false,
+            "is_completed": false,
+            "defeated_enemy_names": []
+        },
+        "2": {
+            "total_enemies": 3,
+            "defeated_enemies": 0,
+            "boss_defeated": false,
+            "is_completed": false,
+            "defeated_enemy_names": []
+        },
+        "3": {
+            "total_enemies": 3,
+            "defeated_enemies": 0,
+            "boss_defeated": false,
+            "is_completed": false,
+            "defeated_enemy_names": []
+        }
+    }
+}
