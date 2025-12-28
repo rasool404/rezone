@@ -259,13 +259,3 @@ Starts with `start_battle()`:
 | **Strategy Pattern** | Enemy AI adapts to player/enemy HP (different `get_next_action()` methods) |
 | **Observer Pattern** | Task manager uses event handlers for task updates |
 | **Template Method** | Abstract `Card.use()` method, implemented by each card type |
-
----
-
-# 👥 Authors
-
-- Khalimov Rasuljon (12244991)
-- Ibragimov Asadbek (12245008)
-- Naizabekov Asfendiyar (12245009)
-- Bolk Ankhbayar (12245013)
-- Shurenbayev Orazbek (12245021)
